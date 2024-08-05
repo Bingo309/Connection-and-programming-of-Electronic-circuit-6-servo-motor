@@ -5,12 +5,6 @@
 3. Connect the servos' power and ground wires to the 5V and GND rails on the breadboard.
 4. Connect the Arduino to your computer via USB for power and data transfer.
 
-## Executing the Project
-1. Open the Arduino IDE on your computer.
-2. Copy and paste the provided code into the IDE.
-3. Connect the Arduino to your computer.
-4. Select the correct board and port from the 'Tools' menu.
-5. Click the upload button to upload the code to the Arduino.
 
 ## Running the Project
 1. After uploading, the Arduino will control the servos based on the code logic.
