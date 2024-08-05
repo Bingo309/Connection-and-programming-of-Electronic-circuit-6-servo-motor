@@ -16,6 +16,11 @@
 ### `robot_leg_movement.ino`
 
 
+
+https://github.com/user-attachments/assets/428cd3ee-c5df-4601-8631-a9fead9eb433
+
+
+
 ```cpp
 // Include the servo library
 #include <Servo.h>
