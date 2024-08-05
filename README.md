@@ -11,15 +11,13 @@
 2. The servos will move to 180, 90, and 0 degrees with a 1500 ms delay between movements.
 3. Ensure all connections are secure for proper operation.
 
+
+
+https://github.com/user-attachments/assets/7b751a9b-def8-4123-aef0-69741681b64a
+
+
+
 ## Code (C++)
-
-### `robot_leg_movement.ino`
-
-
-
-https://github.com/user-attachments/assets/428cd3ee-c5df-4601-8631-a9fead9eb433
-
-
 
 ```cpp
 // Include the servo library
